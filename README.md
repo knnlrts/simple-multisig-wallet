@@ -1,6 +1,6 @@
 Simple multisig wallet dapp...
 
-##TODO:
+**TODO:**
 
 **1. Configure Truffle to use Infura with hdwallet-provider**
 
