@@ -41,4 +41,4 @@ in frontend root:
 npm run build
 ```
 
-deploy on build folder on [netlify](https://www.netlify.com/) or [digitalocean](https://www.digitalocean.com/)
+deploy build folder on [netlify](https://www.netlify.com/) or [digitalocean](https://www.digitalocean.com/)
